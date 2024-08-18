@@ -112,13 +112,11 @@ sections:
     colors: colors-f
     variant: variant-a
     title: Technical Skills
-    text: >-
-      Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium
-      doloremque laudantium, totam rem aperiam. Eaque ipsa quae ab illo
-      inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.
-      Sed ut perspiciatis undeomnis iste natus error sit voluptatem accusantium
-      doloremque laudantium, totam rem aperiam. Eaque ipsa quae ab illo
-      inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.
+    text: |
+      Languages: JavaScript (ES6+), TypeScript, HTML5, CSS3, C/C++.
+      Frameworks: ReactJS, NodeJS, ExpressJS, Socket.io, Redux.
+      Developer Tools: Git, Postman, VScode, Docker, Kubernetes, AWS.
+      Databases: SQL, MongoDB.
     elementId: ''
     styles:
       self:
