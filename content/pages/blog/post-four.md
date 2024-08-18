@@ -3,17 +3,7 @@ type: PostLayout
 title: ''
 colors: colors-a
 date: ''
-excerpt: >-
-  Awarded a prestigious merit scholarship covering 100% of college fees,
-  reflecting outstanding academic performance.                   • Winner of
-  TechX Nova global hackathon out of 5000 plus participants.• Received award for
-  best research paper by IJSPUB (international journal of current sciences).•
-  Secured first place in the B-plan hackathon conducted on 19-21 April
-  2024                             .• Earned the top position in the
-  Model/Prototype competition at NITJ.                        • Achieved victory
-  in the Ideathon conducted in Feb 2023                   .• Actively
-  participated in the Google Solution Challenge, contributing to innovative
-  solutions.                                              
+excerpt: ''
 bottomSections:
   - type: ContactSection
     backgroundSize: full
