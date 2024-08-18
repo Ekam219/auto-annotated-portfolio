@@ -112,13 +112,29 @@ sections:
     colors: colors-f
     variant: variant-a
     title: achievements
-    text: >-
-      Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium
-      doloremque laudantium, totam rem aperiam. Eaque ipsa quae ab illo
-      inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.
-      Sed ut perspiciatis undeomnis iste natus error sit voluptatem accusantium
-      doloremque laudantium, totam rem aperiam. Eaque ipsa quae ab illo
-      inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.
+    text: >2
+        Awarded a prestigious merit scholarship covering 100% of college fees, reflecting outstanding academic performance.                   
+
+      • Winner of TechX Nova global hackathon out of 5000 plus participants.
+
+
+      • Received award for best research paper by IJSPUB (international journal
+      of current sciences).
+
+
+      • Secured first place in the B-plan hackathon conducted on 19-21 April
+      2024.
+
+
+      • Earned the top position in the Model/Prototype competition at
+      NITJ.                       
+
+
+      • Achieved victory in the Ideathon conducted in Feb 2023.
+
+
+      • Actively participated in the Google Solution Challenge, contributing to
+      innovative solutions.
     elementId: ''
     styles:
       self:
