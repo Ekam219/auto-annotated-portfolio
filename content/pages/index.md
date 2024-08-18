@@ -112,13 +112,14 @@ sections:
     colors: colors-f
     variant: variant-a
     title: Publication
-    text: >-
-      Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium
-      doloremque laudantium, totam rem aperiam. Eaque ipsa quae ab illo
-      inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.
-      Sed ut perspiciatis undeomnis iste natus error sit voluptatem accusantium
-      doloremque laudantium, totam rem aperiam. Eaque ipsa quae ab illo
-      inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.
+    text: >
+      “REVIEW OF SMART GLASSES FOR THE BLIND EQUIPPED WITH OBSTACLE DETECTION
+      AND IDENTIFICATION USING ARTIFICIAL
+
+      INTELLIGENCE”, IJCSPUB (WWW\.IJCSPUB.ORG),ISSN:2250-1770, VOL.14,ISSUE 2,
+      PAGE NO.367-376, JUNE-2024,
+
+      Available: https\://rjpn.org/ijcspub/papers/IJCSP24B1270.pdf.
     elementId: ''
     styles:
       self:
