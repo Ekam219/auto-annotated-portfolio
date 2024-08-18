@@ -114,10 +114,7 @@ sections:
     variant: variant-d
     subtitle: ''
     showFeaturedImage: false
-    actions:
-      - type: Link
-        label: See all posts
-        url: /blog
+    actions: []
     posts:
       - content/pages/blog/post-four.md
     showDate: true
