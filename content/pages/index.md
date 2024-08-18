@@ -113,14 +113,11 @@ sections:
     variant: variant-a
     title: Technical Skills
     text: |
-      Languages: JavaScript (ES6+), TypeScript, HTML5, CSS3, C/C++.
-
+      Languages: JavaScript (ES6+), TypeScript, HTML5, CSS3, C/C++,Python.
 
       Frameworks: ReactJS, NodeJS, ExpressJS, Socket.io, Redux.
 
-
       Developer Tools: Git, Postman, VScode, Docker, Kubernetes, AWS.
-
 
       Databases: SQL, MongoDB.
     elementId: ''
