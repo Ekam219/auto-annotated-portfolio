@@ -1,11 +1,18 @@
 ---
 type: ProjectLayout
-title: A very cool code project
+title: VISION_AI
 colors: colors-a
 date: '2021-10-15'
 client: Awesome client
 description: >-
-  It’s hard to imagine that I’ve that I wrote all this code by myself, probably because I worked with an entire team :) but they definitely followed my lead most of the time.
+  Developed a MERN stack web app to assist visually impaired individuals in
+  navigation, Obstacle Detection, SceneDescription, Approximate Depth Estimation
+  using AI-image processing. • Implemented features such as obstacle detection,
+  scene description, and depth sensing using NodeJS, Express. • Integrated
+  Google Gemini for advanced AI-image processing capabilities, enabling the
+  application to recognizeand interpret visual data effectively. • Currently
+  working on integrating the application with glasses using ESP32 module and
+  Lidar sensor.
 featuredImage:
   type: ImageBlock
   url: /images/bg1.jpg
