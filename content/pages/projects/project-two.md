@@ -1,6 +1,6 @@
 ---
 type: ProjectLayout
-title: Telus International
+title: BECA
 colors: colors-a
 date: '2024-01-18'
 client: Awesome client
