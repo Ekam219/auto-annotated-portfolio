@@ -72,7 +72,7 @@ sections:
         textAlign: left
       actions:
         justifyContent: center
-  - colors: colors-b
+  - colors: colors-e
     type: FeaturedProjectsSection
     elementId: ''
     actions:
