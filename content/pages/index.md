@@ -151,6 +151,7 @@ sections:
         textAlign: left
       actions:
         justifyContent: flex-end
+    title: Achievements
   - type: ContactSection
     colors: colors-f
     backgroundSize: full
