@@ -13,7 +13,7 @@ excerpt: >-
   Model/Prototype competition at NITJ.                        • Achieved victory
   in the Ideathon conducted in Feb 2023                   .• Actively
   participated in the Google Solution Challenge, contributing to innovative
-  solutions.                                                                 
+  solutions.                                              
 bottomSections:
   - type: ContactSection
     backgroundSize: full
