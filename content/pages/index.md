@@ -72,6 +72,7 @@ sections:
         textAlign: left
       actions:
         justifyContent: center
+    title: Experience
   - colors: colors-e
     type: FeaturedProjectsSection
     elementId: ''
