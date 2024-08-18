@@ -2,7 +2,7 @@
 type: ProjectLayout
 title: Telus International
 colors: colors-a
-date: ''
+date: '0020-12-20'
 client: Awesome client
 description: ''
 featuredImage:
