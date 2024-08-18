@@ -46,7 +46,7 @@ sections:
     type: HeroSection
     actions: []
   - type: RecentProjectsSection
-    subtitle: Experience
+    subtitle: ''
     actions: []
     colors: colors-a
     variant: variant-a
