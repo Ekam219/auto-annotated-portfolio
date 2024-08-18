@@ -12,11 +12,6 @@
                 "type": "Link",
                 "label": "CV",
                 "url": "https://drive.google.com/file/d/17zD1UHZkJOQv5LKtzfl-6Jl6ulA4ZQwI/view?usp=drive_link"
-            },
-            {
-                "type": "Link",
-                "label": "Projects",
-                "url": "/projects"
             }
         ],
         "socialLinks": [
