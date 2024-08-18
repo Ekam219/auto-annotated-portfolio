@@ -138,7 +138,7 @@ sections:
       text:
         textAlign: left
   - type: TextSection
-    colors: colors-f
+    colors: colors-a
     variant: variant-a
     title: Technical Skills
     text: |
