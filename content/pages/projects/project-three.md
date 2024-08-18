@@ -7,7 +7,7 @@ client: Awesome client
 description: ''
 media:
   type: ImageBlock
-  url: /images/bg3.jpg
+  url: /images/bg2.jpg
   altText: Project image
 ---
 
