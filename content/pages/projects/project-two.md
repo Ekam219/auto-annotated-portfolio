@@ -5,11 +5,10 @@ colors: colors-a
 date: '2024-01-18'
 client: Awesome client
 description: >-
-  • Tech used: ReactJS, NodeJS, Redux, ExpressJS, Tailwind, MongoDB. • Developed
-  and Designed a MERN stack web app to assist students find personalized
-  scholarships through a singleplatform. • Secure JWT authentication for user
-  access • Separate portals for students and institutions and Dynamic content
-  management system
+  Developed and Designed a MERN stack web app to assist students find
+  personalized scholarships through a singleplatform. • Secure JWT
+  authentication for user access • Separate portals for students and
+  institutions and Dynamic content management system
 featuredImage:
   type: ImageBlock
   altText: Project thumbnail image
