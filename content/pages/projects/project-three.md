@@ -2,7 +2,7 @@
 type: ProjectLayout
 title: 'Vizlogic Digital Solutions '
 colors: colors-a
-date: '2022-01-22'
+date: '0002-01-22'
 client: Awesome client
 description: ''
 media:
