@@ -5,13 +5,11 @@ colors: colors-a
 date: '2024-01-18'
 client: Awesome client
 description: >-
-  Software Engineer-Intern • Tech used: JavaScript, ReactJS, NodeJS, ExpressJS,
-  HTML/CSS. • Revamped the UI of the admin portal which is used by the company’s
-  Business Development team to keeptrack of their data. • Worked with a team of
-  5 developers in the migration of legacy frontend code to React.js, resulting
-  in a 40%improvement in code maintainability and a 30% reduction in bug reports
-  from QA. • Conducted thorough testing and debugging procedures to uphold code
-  quality.
+  BECA Demo, GitHub Repo • Tech used: ReactJS, NodeJS, Redux, ExpressJS,
+  Tailwind, MongoDB. • Developed and Designed a MERN stack web app to assist
+  students find personalized scholarships through a singleplatform. • Secure JWT
+  authentication for user access • Separate portals for students and
+  institutions and Dynamic content management system
 featuredImage:
   type: ImageBlock
   altText: Project thumbnail image
