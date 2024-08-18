@@ -47,15 +47,7 @@ sections:
     actions: []
   - type: RecentProjectsSection
     subtitle: Experience
-    actions:
-      - type: Link
-        label: See all projects
-        altText: See all projects
-        url: /projects
-        showIcon: false
-        icon: arrowRight
-        iconPosition: right
-        elementId: ''
+    actions: []
     colors: colors-f
     variant: variant-a
     elementId: ''
