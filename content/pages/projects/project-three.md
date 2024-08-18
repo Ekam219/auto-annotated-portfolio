@@ -5,7 +5,7 @@ colors: colors-a
 date: '2024-06-22'
 client: Awesome client
 description: >-
-  Full Stack Developer-Intern             • Tech used: ReactJS, NodeJS,
+  Full Stack Developer-Intern            • Tech used: ReactJS, NodeJS,
   ExpressJS, JWT, MongoDB, TypeScript. • Developed and designed a robust
   recruitment and staffing software from scratch using the MERN
   (MongoDB,Express.js, React, Node.js) stack with TypeScript. • Built recruiter
