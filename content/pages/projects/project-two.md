@@ -8,7 +8,7 @@ description: ''
 featuredImage:
   type: ImageBlock
   altText: Project thumbnail image
-  url: /images/bg1.jpg
+  url: /images/bg.jpg
 media:
   type: ImageBlock
   url: /images/bg2.jpg
