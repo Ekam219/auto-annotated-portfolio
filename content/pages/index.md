@@ -48,7 +48,7 @@ sections:
   - type: RecentProjectsSection
     subtitle: Experience
     actions: []
-    colors: colors-f
+    colors: colors-a
     variant: variant-a
     elementId: ''
     recentCount: 6
