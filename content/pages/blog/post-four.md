@@ -3,7 +3,9 @@ type: PostLayout
 title: ''
 colors: colors-a
 date: ''
-excerpt: More context that may or may not be helpful
+excerpt: >-
+  Awarded a prestigious merit scholarship covering 100% of college fees,
+  reflecting outstanding academic performance.
 bottomSections:
   - type: ContactSection
     backgroundSize: full
